@@ -1,0 +1,7 @@
+{
+  "name": "JARVIS AI Assistant",
+  "description": "A sophisticated voice-controlled AI assistant inspired by JARVIS, featuring real-time audio interaction, web browsing capabilities, and simulated WhatsApp integration.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
